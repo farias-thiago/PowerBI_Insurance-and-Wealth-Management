@@ -1,6 +1,6 @@
 # Insurance and Wealth Management Dashboard - Anchor Insurance & Wealth Builders 📊
 
-![Dashboard](https://i.imgur.com/cwoXnxv.png)
+![Dashboard](https://i.imgur.com/Y9E5Lgz.png)
 
 This dashboard was designed to provide a comprehensive and detailed overview of the insurance and wealth management operations at Anchor Insurance & Wealth Builders. It aims to assist in data analysis, performance monitoring, and strategic decision-making.
 
