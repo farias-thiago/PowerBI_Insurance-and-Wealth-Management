@@ -1,4 +1,4 @@
-# Insurance and Wealth Management Dashboard - Anchor Insurance & Wealth Builders 📊
+# Insurance and Wealth Management Dashboard 📊
 
 ![Dashboard](https://i.imgur.com/Y9E5Lgz.png)
 
